@@ -10,15 +10,16 @@
 
 * The answer is cd ..
 # 4 - What is a quick way to create a new folder?
-
+The Answer is mkdir
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-
+it won't display anything if there is an empty folder but if it is a foler containing files it will display the specific name of each file that is in the folder.
 # 6 - What is a quick way to create a new file?
-
+ you use the command echo
 # 7 - Run 'git --version' in your terminal. What is the output?
-
+git version 2.39.3 (Apple git-146)
 # 8 - Why would you run the command 'git status'?
-
+to check if you made any changes or if the files were modified.
 # 9 - What does the command 'git add .' do?
-
+i believe it adds the changes in the file
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+git push origin main
